@@ -1,0 +1,27 @@
+{
+  "tanya": [
+    {
+      "name": "azizah",
+      "nik": "654432",
+      "jadwal": "2025-05-23",
+      "jam": "12:32",
+      "poli": "Poli Lansia",
+      "id": "91b6"
+    },
+    {
+      "id": "4b3c",
+      "name": "nabila",
+      "nik": "738278",
+      "jadwal": "2025-05-23",
+      "jam": "12:33",
+      "poli": "Poli Anak"
+    },
+    {
+      "id": "6c75",
+      "name": "kur",
+      "pertanyaan": "2174",
+      "poli": "Anak",
+      "jawaban": "asasbdhsagcvba"
+    }
+  ]
+}
